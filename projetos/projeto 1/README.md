@@ -19,11 +19,22 @@ Este projeto ilustra a aplicação prática de análise de dados e visualizaçã
 >O faturamento total que a empresa teve nesse banco de dados é de R$ 227.244.986,00
 <div align="center">
     <img src="https://github.com/user-attachments/assets/a1676882-6b9b-4a29-98a5-a121c1b61eff" width="300"/>
-<div>
+</div>
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/9625755d-fb9f-4978-89da-1943227a66e8" width="300"/>
-<div>
+</div>
+
++ Qual é o faturamento dos 5 produtos mais vendidos?
+> Nessa analise retornou o nome dos produtos e o faturamento total deles(limitei em 5 pois são 1798 produtos)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/ca0d5be2-b365-4a3b-b366-e4f2f3e966be" width="300"/>
+</div>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/774b767a-6cf4-4092-b927-84eb3b1d5bbc" width="300"/>
+</div>
+
+
 
 
 
