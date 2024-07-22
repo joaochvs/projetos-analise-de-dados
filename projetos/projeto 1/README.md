@@ -16,7 +16,7 @@ Este projeto ilustra a aplicação prática de análise de dados e visualizaçã
 ## Consultas
 + Qual é o valor total do faturamento?
   
->O faturamento total que a empresa tem nesse banco de dados é de R$ 227.244.986,00
+>O faturamento total que a empresa teve nesse banco de dados é de R$ 227.244.986,00
 <div align="center">
     <img src="https://github.com/user-attachments/assets/a1676882-6b9b-4a29-98a5-a121c1b61eff" width="300"/>
 <div>
