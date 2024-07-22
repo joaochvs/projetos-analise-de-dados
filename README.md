@@ -10,11 +10,11 @@ Cada projeto aqui presente aborda diferentes temas e desafios, permitindo-me exp
 
 Nesta seção, você encontrará uma variedade de projetos de análise de dados que desenvolvi para aprimorar minhas habilidades e explorar diferentes áreas da análise de dados. Cada projeto inclui uma descrição detalhada sobre o projeto, ferramentas ultilizadas e visualizações geradas.
 
- **[Análise de Vendas de uma Loja Online](#)**
+ **[Análise de Vendas de uma Loja Online](https://github.com/joaochvs/projetos-analise-de-dados/tree/main/projetos/projeto%201)**
    - **Descrição:** Este projeto envolve a análise de um conjunto de dados de uma loja online, utilizando SQL para a consulta dos dados, seguido pela criação de um dashboard interativo no Power BI para visualizar as principais métricas de desempenho.
    - **Ferramentas Utilizadas:** SQL, Power BI
 
-**[Análise de Vendas de uma grande empresa de lojas de carros](#)**
+**[Análise de Vendas de uma grande empresa de lojas de carros](https://github.com/joaochvs/projetos-analise-de-dados/tree/main/projetos/projeto%202)**
    - **Descrição:** Este projeto de análise de dados foi realizado com um dataset de uma empresa que possui várias lojas de carros. O objetivo principal foi analisar o desempenho das lojas, identificar tendências de vendas, e oferecer insights que pudessem auxiliar na tomada de decisões estratégicas
    - **Ferramentas Utilizadas:** SQL, Power BI
      
