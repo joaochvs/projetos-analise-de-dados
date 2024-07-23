@@ -39,7 +39,7 @@ Os scripts podem ser visualizados em [consultas.sql](https://github.com/joaochvs
 </div>
 <br/>
 
-+ Os 5 estados que mais faturaram?
++ Quais foram os 5 estados que mais deram faturamento?
 > Com essa consulta, foi possível identificar os estados que mais geraram lucro para a loja
 <br/>
 <div align="center">
@@ -49,6 +49,20 @@ Os scripts podem ser visualizados em [consultas.sql](https://github.com/joaochvs
     <img src="https://github.com/user-attachments/assets/3977429b-92ec-4f67-b633-291b91cd4f2d" width="600"/>
 </div>
 <br/>
+
++ Quais foram os 5 estados que menos deram faturamento?
+> Aqui podemos analisar os estados menos lucrativos, permitindo um estudo detalhado sobre como melhorar as vendas nesses locais. (no codigo apenas mudei o order by de "desc" para "asc")
+<br/>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/9fab5bce-fb2d-4fc7-b430-7e24bb4c6f4f" width="600"/>
+</div>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/064d38a8-937f-4632-b12e-963b536b0a57" width="600"/>
+</div>
+<br/>
+
+
+
 
 
 
