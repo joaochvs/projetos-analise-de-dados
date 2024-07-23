@@ -61,6 +61,29 @@ Os scripts podem ser visualizados em [consultas.sql](https://github.com/joaochvs
 </div>
 <br/>
 
++ As 5 subcategorias com mais vendas?
+> Podemos ver que foram geradas as 5 subcategorias com mais vendas.
+<br/>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/d4960933-446d-4d71-bc0b-517e32774c69" width="600"/>
+</div>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/b23ed3e9-2b81-4e34-bb21-bce6e0dac852" width="600"/>
+</div>
+<br/>
+
++ As 5 subcategorias que mais deram faturamento?
+> Agora podemos analisar que ter mais vendas não significa ser mais lucrativo, que mesmo o que mais vende pode não ser o produto mais lucrativo para a loja.
+<br/>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/01c8be94-77b7-4e72-94eb-053af6628c70" width="600"/>
+</div>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/10499b28-f809-4b90-a63c-2c61541328e4" width="600"/>
+</div>
+<br/>
+
+
 
 
 
