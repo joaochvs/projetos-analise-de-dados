@@ -83,6 +83,17 @@ Os scripts podem ser visualizados em [consultas.sql](https://github.com/joaochvs
 </div>
 <br/>
 
++ Qual é o tipo de entrega que mais possui vendas?
+> Nesse codigo vamos poder observar qual é o tipo de entrega mais feito.
+<br/>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/ba381f2d-43d5-4506-8d16-de70326f2081" width="600"/>
+</div>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/0321599a-3f32-4472-86ad-7c8eccfc0215" width="600"/>
+</div>
+<br/>
+
 + Qual é o faturamento no ano de 2017?
 > Aqui podemos analisar o faturamento mensal durante o ano de 2017.(Para analisar outros anos basta apenas alterar o ano no "having ano = 2017")
 <br/>
@@ -96,7 +107,11 @@ Os scripts podem ser visualizados em [consultas.sql](https://github.com/joaochvs
 
 ## Dashbord no Power BI
 
-Foi criado um dashboard com as principais métricas para análise, destacando a importância de uma abordagem visual para a interpretação dos dados. O dashbord pode ser visualizado [aqui](#), para uma melhor experiencia.
+Foi criado um dashboard com as principais métricas para análise, destacando a importância de uma abordagem visual para a interpretação dos dados.
+
+
+O dashbord pode ser visualizado [aqui](https://app.powerbi.com/view?r=eyJrIjoiMWRmZWZmMmEtYjhmOS00ODUyLWJiMWEtMDI0NTU5ZDljNDlmIiwidCI6IjQxZjFmNWM0LThiMjQtNDBkMy05MDAxLTg0NmVjOTQyZWJlYiJ9), para uma melhor experiência.<br/>
+<br/>
 <img src="https://github.com/user-attachments/assets/315a6e2d-dade-4c27-8204-f9d3b51da3a7"/>
 
 
