@@ -83,6 +83,23 @@ Os scripts podem ser visualizados em [consultas.sql](https://github.com/joaochvs
 </div>
 <br/>
 
++ Qual é o faturamento no ano de 2017?
+> Aqui podemos analisar o faturamento mensal durante o ano de 2017.(Para analisar outros anos basta apenas alterar o ano no "having ano = 2017")
+<br/>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/641a0786-3604-4440-b6f8-4fbbce3b8200" width="600"/>
+</div>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/4b3315eb-97d7-4a54-a99c-bad302e4a0ab" width="600"/>
+</div>
+<br/>
+
+## Dashbord no Power BI
+
+Foi criado um dashboard com as principais métricas para análise, destacando a importância de uma abordagem visual para a interpretação dos dados. O dashbord pode ser visualizado [aqui](#), para uma melhor experiencia.
+<img src="https://github.com/user-attachments/assets/315a6e2d-dade-4c27-8204-f9d3b51da3a7"/>
+
+
 
 
 
