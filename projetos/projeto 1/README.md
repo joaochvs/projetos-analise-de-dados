@@ -73,7 +73,7 @@ Os scripts podem ser visualizados em [consultas.sql](https://github.com/joaochvs
 <br/>
 
 + As 5 subcategorias que mais deram faturamento?
-> Agora podemos analisar que ter mais vendas não significa ser mais lucrativo, que mesmo o que mais vende pode não ser o produto mais lucrativo para a loja.
+> Com essa consulta, podemos entender a importância de analisarmos tanto a quantidade de vendas quanto o faturamento. O produto mais vendido não necessariamente é de onde vem o maior faturamento.
 <br/>
 <div align="center">
     <img src="https://github.com/user-attachments/assets/01c8be94-77b7-4e72-94eb-053af6628c70" width="600"/>
@@ -84,7 +84,7 @@ Os scripts podem ser visualizados em [consultas.sql](https://github.com/joaochvs
 <br/>
 
 + Qual é o tipo de entrega que mais possui vendas?
-> Nesse codigo vamos poder observar qual é o tipo de entrega mais feito.
+> Nesse codigo podemos observar qual é o tipo de entrega mais efetuado.
 <br/>
 <div align="center">
     <img src="https://github.com/user-attachments/assets/ba381f2d-43d5-4506-8d16-de70326f2081" width="600"/>
