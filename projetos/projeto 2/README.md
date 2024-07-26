@@ -14,5 +14,32 @@ Este projeto ilustra a aplicação prática de análise de dados e visualizaçã
 
 
 ## Consultas
-Os scripts podem ser visualizados em [consultas.sql](https://github.com/joaochvs/projetos-analise-de-dados/blob/main/projetos/projeto%201/consultas.sql)
+Os scripts podem ser visualizados em [consultas.sql](https://github.com/joaochvs/projetos-analise-de-dados/blob/main/projetos/projeto%202/consultas.sql)
 <br/>
++ Qual é o valor total do faturamento?
+>O faturamento total que a empresa teve nesse banco de dados é de R$ 227.244.986,00.
+<br/>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/d2155b77-cfe1-4c18-8a86-85f06aaea757" width="600"/>
+    <img src="https://github.com/user-attachments/assets/da0d9398-f7dd-4259-96c8-93feeb5805ab" width="600"/>
+</div>
+<br/>
+
++ Qual é o valor do Ticket Médio?
+>O Ticket Médio é de R$28.090,25.
+<br/>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/d2155b77-cfe1-4c18-8a86-85f06aaea757" width="600"/>
+    <img src="https://github.com/user-attachments/assets/da0d9398-f7dd-4259-96c8-93feeb5805ab" width="600"/>
+</div>
+<br/>
+
++ Qual é o valor do Ticket Médio?
+>O Ticket Médio é de R$28.090,25.
+<br/>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/bd01a174-3b5e-4c28-b0cb-93a7d570cb1e" width="600"/>
+    <img src="https://github.com/user-attachments/assets/d7cd6931-20ae-49db-9eac-45acef4f1029" width="600"/>
+</div>
+<br/>
+
