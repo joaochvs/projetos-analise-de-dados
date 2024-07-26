@@ -43,3 +43,12 @@ Os scripts podem ser visualizados em [consultas.sql](https://github.com/joaochvs
 </div>
 <br/>
 
++ Qual é o faturamento de mês a mês?
+>Usando o comando Month() eu consigo extrair apenas o numero do mês da coluna, e usando o GroupBy posso agrupar esses meses.
+<br/>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/444a8d09-183f-4932-980e-6ed2431d752b" width="600"/>
+    <img src="https://github.com/user-attachments/assets/2efdb544-50f0-40d7-afc7-d808ff25c695" width="600"/>
+</div>
+<br/>
+
