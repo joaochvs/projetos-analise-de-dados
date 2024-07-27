@@ -52,3 +52,40 @@ Os scripts podem ser visualizados em [consultas.sql](https://github.com/joaochvs
 </div>
 <br/>
 
++ Qual é o faturamento por marcas de carro?
+>Com essa consulta cosingo retornar apenas o faturamento total de cada marca.
+<br/>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/a5640aff-0202-4baf-845c-92d8d479fd60" width="600"/>
+    <img src="https://github.com/user-attachments/assets/28da6c0d-427b-4dd4-b8c2-a45e465e8d3f" width="600"/>
+</div>
+<br/>
+
+
++ As 3 marcas de carro com mais vendas?
+>Aqui retornamos as 3 marcas com mais vendas.
+<br/>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/b6c5648b-cf54-45a2-8303-b4986584a2d3" width="600"/>
+    <img src="https://github.com/user-attachments/assets/55b49858-76ab-48f1-94d0-653c6eb8256e" width="600"/>
+</div>
+<br/>
+
+
++ Qual é o modelo dessas 3 marcas, que mais faturam?
+>Aqui retornamos as 3 marcas com mais vendas.
+<br/>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/15d39e65-3cca-4f0a-972e-58830b919181" width="600"/>
+    <img src="https://github.com/user-attachments/assets/32be5813-eb27-4996-acd5-67c6a52e4c8c" width="600"/>
+</div>
+<br/>
+
+
+
+
+
+
+
+
+
