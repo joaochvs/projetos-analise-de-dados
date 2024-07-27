@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9e60834b-4afc-415a-8b8c-b054dc260f48)## Introdução
+## Introdução
 
 Este projeto foi desenvolvido para fins educacionais e utiliza um dataset do Kaggle. A seguir, detalhes sobre as ferramentas e metodologias aplicadas:
 
@@ -92,6 +92,14 @@ Os scripts podem ser visualizados em [consultas.sql](https://github.com/joaochvs
 
 
 
+## Dashbord no Power BI
+
+Foi criado um dashboard com as principais métricas para análise, destacando a importância de uma abordagem visual para a interpretação dos dados.
+
+
+O dashbord pode ser visualizado [aqui](https://app.powerbi.com/view?r=eyJrIjoiMjg5YjZkMTctZGM0NC00YTI5LWI5YzgtMzE0NDllMTIyZjkwIiwidCI6IjQxZjFmNWM0LThiMjQtNDBkMy05MDAxLTg0NmVjOTQyZWJlYiJ9), para uma melhor experiência.<br/>
+<br/>
+<img src="https://github.com/user-attachments/assets/e59afd14-d610-4813-aac5-453993b573a6"/>
 
 
 
