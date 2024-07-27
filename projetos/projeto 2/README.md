@@ -1,4 +1,4 @@
-## Introdução
+![image](https://github.com/user-attachments/assets/9e60834b-4afc-415a-8b8c-b054dc260f48)## Introdução
 
 Este projeto foi desenvolvido para fins educacionais e utiliza um dataset do Kaggle. A seguir, detalhes sobre as ferramentas e metodologias aplicadas:
 
@@ -72,16 +72,23 @@ Os scripts podem ser visualizados em [consultas.sql](https://github.com/joaochvs
 <br/>
 
 
-+ Qual é o modelo dessas 3 marcas, que mais faturam?
->Aqui retornamos as 3 marcas com mais vendas.
++ Qual é o numero de vendas e faturamento por estado?
+>Retornamos o numero total de vendas junto com o faturamento por estado, ordenando por faturamento.
 <br/>
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/15d39e65-3cca-4f0a-972e-58830b919181" width="600"/>
-    <img src="https://github.com/user-attachments/assets/32be5813-eb27-4996-acd5-67c6a52e4c8c" width="600"/>
+    <img src="https://github.com/user-attachments/assets/9f6000ba-b0e2-49a1-8728-f53464592f26" width="600"/>
+    <img src="https://github.com/user-attachments/assets/3e75877f-e1a4-433a-bdc3-9e9acf4608ac" width="600"/>
 </div>
 <br/>
 
-
++ Vendas e faturamento por loja?
+>Retornamos 22 lojas, com o faturamento e o total de vendas.
+<br/>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/5f6bf422-83d3-497f-8263-ef084070c0ba" width="600"/>
+    <img src="https://github.com/user-attachments/assets/bb2501cb-4e34-4463-8678-a4113eb0c22c" width="600"/>
+</div>
+<br/>
 
 
 
