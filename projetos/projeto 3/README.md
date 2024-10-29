@@ -17,3 +17,6 @@ Este projeto ilustra a aplicação prática de análise de dados e visualizaçã
 Os scripts podem ser visualizados em [consultas.sql](https://github.com/joaochvs/projetos-analise-de-dados/blob/main/projetos/projeto%203/pizzaria.sql)
 <br/>
 
++ Qual é o valor total do faturamento?
+>O faturamento total que a pizzaria teve no ano foi de $817,860,05.
+<br/>
