@@ -62,5 +62,33 @@ Os scripts podem ser visualizados em [consultas.sql](https://github.com/joaochvs
 </div>
 <br/>
 
+## Apresentação
+
+Agora, com base nos dados analisados, vamos transformá-los em representações visuais que facilitem a compreensão, especialmente para aqueles que não têm familiaridade com dados.
+
++ Analise de faturamento mensal e trimestral
+>Essa apresentação destaca pontos cruciais, como o faturamento anual e a identificação de uma queda de 12% de julho a outubro, o que pode orientar ações preventivas para o próximo ano.
+<br/>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/9c239e85-0f91-4b11-af6c-5a3fd3f7877a" width="1200"/>
+</div>
+<br/>
+
++ Analise de vendas por tamanho
+>Essa apresentação revela quais tamanhos têm maior volume de vendas e levanta uma questão importante: vale a pena continuar oferecendo todos os tamanhos disponíveis?.
+<br/>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/04684d4b-4340-457c-b25a-e5a64d157564" width="1200"/>
+</div>
+<br/>
+
+
++ Analise de vendas por hora
+>Aqui, destacamos um detalhe essencial: as vendas por hora. Com isso, identificamos os picos de vendas e os horários de menor movimento, permitindo insights sobre onde atuar para melhorar o faturamento no próximo ano.
+<br/>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/d30bea2d-7764-44c5-8a95-01a8e17352c8"/>
+</div>
+<br/>
 
 
