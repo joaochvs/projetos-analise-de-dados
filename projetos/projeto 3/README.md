@@ -22,7 +22,7 @@ Os scripts podem ser visualizados em [consultas.sql](https://github.com/joaochvs
 <br/>
 <div align="center">
     <img src="https://github.com/user-attachments/assets/7f4a6408-59de-4c9e-99ec-8c1efdb43316" width="600"/>
-    <img src="https://github.com/user-attachments/assets/2984e31f-61c4-4b6c-bdd6-504997a4ad14" width="600"/>
+    <img src="https://github.com/user-attachments/assets/9ccf0046-092e-454c-824c-032cc3896a1c" width="600"/>
 </div>
 <br/>
 
